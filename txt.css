@@ -1,0 +1,37 @@
+﻿/* style sheet for Example Cafe */
+
+body {
+font-family: arial, vernada, sans-serif; background-attachment: fixed
+}
+h2 {
+font-family: georgia, times, serif; color: #5C3317;
+}
+h4 {
+color: white;
+}
+p {
+font-size: 90%; color: #333333
+}
+#top {
+font-size: 90%; color: #333333
+}
+#navigation a {
+color: black; margin-right: 20px;
+}
+#navigation {
+border-top: 1px solid #a9a9a9; border-bottom: 1px solid #a9a9a9; margin-top: 20px; margin-bottom: 20px;
+padding-top: 10px; padding-bottom: 10px; background-color: 10px; color: black;
+}
+main_image {
+border: 1px solid #5C3317; margin-bottom: 10px; margin-right: 10px;
+}
+#page {
+margin: 20px; padding: 20px; border-color: black; border-style: solid; border-width: 5px; line-height: 1.3em; 
+background-color: white;
+}
+#navigation a: link, a: visited {
+font-weight: bold; text-align: center; text-decoration: none;
+}
+ul {
+list-style-image: url(");
+}
